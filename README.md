@@ -2,7 +2,7 @@
 Projetinho em java que simula um player de musica para fins de estudo.
 
 - Java
-  - Springboot
+  - Spring-boot
 - VLC music player
 
 
