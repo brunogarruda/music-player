@@ -1,10 +1,13 @@
 # music-player
-Projeto que simula um player de musica para fins de estudo
+Projetinho em java que simula um player de musica para fins de estudo.
 
+-Java
+  -Spring-boot
 -VLC music player
 
-Segue os seguintes passos:
-  1...baixe e instale o reprodutor VLC music player
-  2...no menu superior esquerdo selecione a opção media e depois abrir da área de tranferencia
-  3...digite http://localhost:8080/api/music
 
+## Segue os seguintes passos:
+
+- Baixe e instale o reprodutor VLC music player;
+- No menu superior esquerdo selecione a opção media e depois abrir da área de tranferencia;
+- Digite: http://localhost:8080/api/music;
